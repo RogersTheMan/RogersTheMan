@@ -2,8 +2,8 @@
 
 
 - 🔭 Hoje trabalho com front-end/back-end
-- 🌱 Estudando Ruby
-- 📫 Contate-me no email: pretrod971@gmail.com
+- 🌱 Estudando Ruby on Rails
+- 📫 Contate-me no email: rodrigopretelrosa@gmail.com
 
 <div align="center">
   <a href="https://github.com/RogersTheMan">
